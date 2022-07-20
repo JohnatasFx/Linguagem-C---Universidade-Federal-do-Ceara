@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1643408480 source:c:\users\johnatas\desktop\code\vetores\vetor.c
+	<stdio.h>
+	<stdlib.h>
+
+1643408965 source:c:\users\johnatas\desktop\code\vetores\exerc 1.c
+	<stdio.h>
+	<stdlib.h>
+

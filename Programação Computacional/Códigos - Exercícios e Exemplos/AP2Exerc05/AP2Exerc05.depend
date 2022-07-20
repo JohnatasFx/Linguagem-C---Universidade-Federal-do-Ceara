@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643995206 source:c:\users\johnatas\desktop\code\ap2exerc05\main.c
+	<stdio.h>
+	<stdlib.h>
+
